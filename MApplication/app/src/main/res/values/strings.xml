@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">仿知乎日报</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="title_activity_main2">回答</string>
+    <string name="message">所以我们看到的这个乏味又面目可憎的女人，当年其实也是阿凤探春一流的人物。她在做姑娘的时候，也曾和探春一样，参与打理家务，和亲友女眷交际那时的王夫人，想必也是光</string>
+</resources>
